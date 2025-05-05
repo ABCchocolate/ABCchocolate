@@ -39,4 +39,11 @@
 - 📧 Email: qrkdbtls@gmail.com
 - 💼 Portfolio: 
 
-<!-- 깃허브 프로필 README.md 끝 -->
+---
+
+### 🧠 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qrkdbtls)](https://solved.ac/qrkdbtls)
+
+> 꾸준히 알고리즘 문제를 풀며 사고력과 구현 능력을 키우고 있습니다.
+
