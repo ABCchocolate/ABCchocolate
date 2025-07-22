@@ -47,3 +47,12 @@
 
 > 꾸준히 알고리즘 문제를 풀며 사고력과 구현 능력을 키우고 있습니다.
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ABCchocolate&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ABCchocolate"
+  width="600"
+  height="300"
+/>
+</a>
+
